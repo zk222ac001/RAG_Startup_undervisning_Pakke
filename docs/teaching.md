@@ -2,6 +2,9 @@
 
 [← Tilbage til forsiden](../README.md)
 
+> [!TIP]
+> Klar til udlevering: [To studenteropgaver med delopgaver, afleveringskrav og rapportskabelon](../opgaver/README.md). Opgave 1 følger session 1–2; opgave 2 følger session 3–4 og hjemmearbejde.
+
 **Målgruppe:** studerende med grundlæggende Python. **Slutprodukt:** en lokal dokumentassistent med en dokumenteret evaluering.
 
 > [!IMPORTANT]

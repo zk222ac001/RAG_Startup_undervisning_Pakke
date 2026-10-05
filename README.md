@@ -15,6 +15,7 @@
 | :--- | :--- |
 | 🚀 Installere og køre programmet | [Opsætning trin for trin](docs/setup.md) |
 | 🧠 Forstå RAG og Python-koden | [Teori, diagrammer og kodegennemgang](docs/rag-explained.md) |
+| 📝 Løse de to studenteropgaver | [Opgavesæt og rapportskabelon](opgaver/README.md) |
 | 🎓 Undervise eller løse øvelser | [Undervisningsplan og mini-projekt](docs/teaching.md) |
 | 🛠️ Løse en fejl | [Fejlfinding](docs/troubleshooting.md) |
 | 🇬🇧 Read the original English guide | [English teaching guide](docs/teaching-guide-en.md) |
