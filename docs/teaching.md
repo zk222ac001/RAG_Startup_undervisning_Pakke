@@ -8,7 +8,7 @@
 > Før første session skal pakker og modeller være downloadet. Underviseren bør køre alle ti evalueringsspørgsmål på en repræsentativ undervisningscomputer.
 
 ## 🟦 Session 1 · Forstå problemet
-
+    
 | Tid | Aktivitet |
 | :--- | :--- |
 | 0–15 min | Spørg efter en kursusfrist, modellen ikke kan forventes at kende |
