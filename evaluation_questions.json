@@ -1,0 +1,12 @@
+[
+  {"question":"When must I submit the final report?", "expected":"12 December 2026 at 12:00", "source":"course.txt"},
+  {"question":"How many weeks does the course last?", "expected":"10 weeks", "source":"course.txt"},
+  {"question":"How many students can work together?", "expected":"Two or three", "source":"course.txt"},
+  {"question":"When does the robotics lab close?", "expected":"16:00 Monday to Friday", "source":"lab.txt"},
+  {"question":"How long can I borrow equipment?", "expected":"Seven days", "source":"lab.txt"},
+  {"question":"Where should I return borrowed equipment?", "expected":"Cabinet B12", "source":"lab.txt"},
+  {"question":"How much does the demonstration contribute to the assessment?", "expected":"40 percent", "source":"assessment.txt"},
+  {"question":"What is the Wi-Fi password?", "expected":"Abstain: not supplied", "source":null},
+  {"question":"Who is the external examiner?", "expected":"Abstain: not supplied", "source":null},
+  {"question":"What is the exact price of the robot kit?", "expected":"Abstain: not supplied", "source":null}
+]
